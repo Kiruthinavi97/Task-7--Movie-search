@@ -1,6 +1,6 @@
 # Movie Search App
 Overview
-The Movie Search App is a simple web or mobile application that allows users to search for information about movies. It provides details such as the movie's title, release date, rating, genre, synopsis, and more. The app fetches movie data from an external API (e.g., OMDb API, The Movie Database API) and presents the information in an easy-to-use interface.
+The Movie Search App is a simple web or mobile application that allows users to search for information about movies. It provides details such as the movie's title, release date, rating, genre, synopsis, and more. The app fetches movie data from an external API (OMDB API (https://www.omdbapi.com/)) and presents the information in an easy-to-use interface.
 
 # Features
 1.Search for Movies: Enter a movie title to get details like release date, rating, genre, and summary.
